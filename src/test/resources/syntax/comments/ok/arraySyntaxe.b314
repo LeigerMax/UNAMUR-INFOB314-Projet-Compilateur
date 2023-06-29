@@ -1,0 +1,12 @@
+#import "world.map"
+
+ int t4[42];
+ bool b2[3] = {true, false, false};
+ bool b3[1,2] = {{true, false}};
+
+void main()
+{
+
+ dig();
+ return void;
+}

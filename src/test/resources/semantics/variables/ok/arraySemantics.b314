@@ -1,0 +1,15 @@
+#import "world.map"
+
+ int x;
+ int t4[42];
+ bool b2[3] = {true, false, false};
+ bool b3[1,2] = {{true, false}};
+ struct D1 { int a; char b;bool c[5,3]; };
+
+void main()
+{
+ bool b5[3] = {true, false, false};
+
+ dig();
+ return void;
+}

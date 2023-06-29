@@ -1,0 +1,8 @@
+#import "world.map"
+
+
+void main()
+{
+ dig();
+ return void;
+}

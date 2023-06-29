@@ -1,0 +1,17 @@
+#import "world.map"
+
+ /* Instruction
+void main()
+{
+
+ left(1);
+ up(3);
+ right(1);
+ down(1);
+
+ jump();
+ fight();
+
+ dig();
+ return void;
+}

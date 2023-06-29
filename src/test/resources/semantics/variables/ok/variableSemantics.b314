@@ -1,0 +1,25 @@
+#import "world.map"
+
+
+ const int i;
+ const bool b2[3] = {true, false, false};
+
+ int a = 5;
+ int min;
+
+ int result;
+ int result2;
+ int result3;
+ int result4;
+
+void main()
+{
+ result = a + 2;
+ result2 = 2 * 5;
+ result3 = 2 / 5;
+ result4 = 10 - 5;
+ min = -2;
+
+ dig();
+ return void;
+}

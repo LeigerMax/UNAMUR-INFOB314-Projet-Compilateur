@@ -1,0 +1,17 @@
+#import "world.map"
+int a = 3;
+int b = 1;
+void main() {
+
+ left(2);
+ right(2);
+ up();
+ down(a);
+ down(1);
+ fight();
+ jump(5);
+ dig();
+
+ dig();
+ return void;
+}

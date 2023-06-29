@@ -1,0 +1,10 @@
+#import "world.map"
+
+ typedef float typedefId;
+
+void main()
+{
+
+ dig();
+ return void;
+}

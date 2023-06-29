@@ -1,0 +1,16 @@
+#import "world.map"
+
+int fct1(int 1){
+    int fctInt = 0 + 4;
+    return fctInt;
+}
+
+void main()
+{
+
+ // nombre incorrect d'arguments
+ fct1(1, fail);
+
+ dig();
+ return void;
+}

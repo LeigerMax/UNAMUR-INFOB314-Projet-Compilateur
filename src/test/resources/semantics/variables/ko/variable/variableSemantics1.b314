@@ -1,0 +1,10 @@
+#import "world.map"
+
+// type inconuu
+typefake nameTypeFake;
+
+void main()
+{
+ dig();
+ return void;
+}

@@ -1,0 +1,12 @@
+#import "world.map"
+
+void main() {
+
+// Lettre non admis
+ right(a);
+
+
+
+ dig();
+ return void;
+}

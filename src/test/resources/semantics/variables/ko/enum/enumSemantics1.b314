@@ -1,0 +1,10 @@
+#import "world.map"
+
+ enum {BLUE,RED,2};
+
+void main()
+{
+
+ dig();
+ return void;
+}

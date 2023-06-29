@@ -1,0 +1,15 @@
+#import "world.map"
+
+ int a = 5;
+ char resultatChar;
+
+void main()
+{
+ //ExprG char != ExprD int
+ resultatChar = a + 2;
+
+
+
+ dig();
+ return void;
+}

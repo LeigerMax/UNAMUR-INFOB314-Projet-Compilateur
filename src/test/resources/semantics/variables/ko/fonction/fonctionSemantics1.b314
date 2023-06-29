@@ -1,0 +1,12 @@
+#import "world.map"
+
+// appel fonction, pas init
+
+void main()
+{
+
+ fonctionNonDeclare();
+
+ dig();
+ return void;
+}

@@ -1,0 +1,11 @@
+#import "world.map"
+
+//Un id ne doit pas débuter par un chiffre
+int 1_tes;
+
+void main()
+{
+
+ dig();
+ return void;
+}

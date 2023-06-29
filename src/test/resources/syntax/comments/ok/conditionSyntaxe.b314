@@ -1,0 +1,15 @@
+#import "world.map"
+
+int x;
+int b4 = {3, 5, 6, 9};
+
+void main()
+{
+
+if ((x+1 > 3) && false ){
+x = b3[4];
+}
+
+ dig();
+ return void;
+}

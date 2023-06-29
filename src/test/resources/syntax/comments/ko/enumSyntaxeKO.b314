@@ -1,0 +1,13 @@
+#import "world.map"
+
+ enum {i,a};
+ enum {bi,3};
+ enum idEnum {i2,a2};
+
+
+void main()
+{
+
+ dig();
+ return void;
+}

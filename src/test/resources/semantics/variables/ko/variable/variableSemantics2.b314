@@ -1,0 +1,11 @@
+#import "world.map"
+// Utilisation d'une variable dans une expression de type différent
+int a = 3;
+bool b = true;
+int c = a + b;
+
+void main()
+{
+ dig();
+ return void;
+}

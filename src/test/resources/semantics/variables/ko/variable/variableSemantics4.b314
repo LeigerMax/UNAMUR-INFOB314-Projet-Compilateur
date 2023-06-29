@@ -1,0 +1,10 @@
+#import "world.map"
+
+
+void main()
+{
+ //Pas de type pour x
+ x = 42;
+ dig();
+ return void;
+}

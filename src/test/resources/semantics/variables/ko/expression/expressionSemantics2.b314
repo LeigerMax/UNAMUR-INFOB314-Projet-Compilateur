@@ -1,0 +1,16 @@
+#import "world.map"
+
+ int a = 5;
+ bool resultBool;
+ bool resultBool2;
+
+void main()
+{
+ //ExprG bool != ExprD int
+ resultBool =  a + 2 + 6;
+ resultBool2 =  2 > 0;
+
+
+ dig();
+ return void;
+}

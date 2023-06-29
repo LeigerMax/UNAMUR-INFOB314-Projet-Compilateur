@@ -1,0 +1,11 @@
+#import "world.map"
+// import et main sont interdits en init variable
+int import;
+int main;
+
+void main()
+{
+
+ dig();
+ return void;
+}

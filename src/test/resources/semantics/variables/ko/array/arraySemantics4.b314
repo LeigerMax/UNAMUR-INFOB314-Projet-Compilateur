@@ -1,0 +1,9 @@
+#import "world.map"
+//check négatif taille array
+bool b2[-5] = {true, false, true, false, true};
+
+void main()
+{
+ dig();
+ return void;
+}

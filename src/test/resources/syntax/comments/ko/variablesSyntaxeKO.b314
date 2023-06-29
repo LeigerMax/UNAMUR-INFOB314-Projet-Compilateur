@@ -1,0 +1,14 @@
+#import "world.map"
+
+ int a = 5;
+ int 3;
+ bool true;
+ char charVar;
+
+
+void main()
+{
+
+ dig();
+ return void;
+}

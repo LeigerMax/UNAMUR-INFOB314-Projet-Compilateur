@@ -1,0 +1,18 @@
+#import "world.map"
+
+ int a = 5;
+ int resultInt;
+ bool resultbool;
+ char resultatChar;
+
+ char charNumber = "5";
+ char resultatChar2;
+
+void main()
+{
+ resultInt = a + 2;
+ resultbool = (a+5) > (0+1+a);
+
+ dig();
+ return void;
+}

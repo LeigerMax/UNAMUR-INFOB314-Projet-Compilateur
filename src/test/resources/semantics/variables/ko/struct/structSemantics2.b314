@@ -1,0 +1,13 @@
+#import "world.map"
+
+// ; manquant après name
+struct MyStruct {
+  int age;
+  char name
+};
+
+void main()
+{
+ dig();
+ return void;
+}

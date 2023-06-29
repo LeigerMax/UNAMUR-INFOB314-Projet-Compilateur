@@ -1,0 +1,10 @@
+#import "world.map"
+
+// false n'est pas un int
+int a = false;
+
+void main()
+{
+ dig();
+ return void;
+}

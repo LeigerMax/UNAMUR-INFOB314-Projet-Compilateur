@@ -1,0 +1,31 @@
+#import "world.map"
+
+int fctInt;
+
+int fct1(){
+    int a = 2;
+    int fctInt1 = 0 + 4;
+    return fctInt1;
+}
+
+int fct2(int x){
+    int fctInt2 = 2 + x;
+    return fctInt2;
+}
+
+void fct3(int x) {
+   right(x);
+   fight();
+
+   return void;
+ }
+
+void main() {
+
+ int x = 10;
+ fct3(3);
+ int fctIntMain = fct2(x);
+
+ dig();
+ return void;
+}

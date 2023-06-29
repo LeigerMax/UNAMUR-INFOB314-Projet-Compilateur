@@ -1,0 +1,13 @@
+#import "world.map"
+
+ int a = 5;
+
+void main()
+{
+ //result non init
+ result = a + 2;
+ int resultIncrement = result + 1;
+
+ dig();
+ return void;
+}

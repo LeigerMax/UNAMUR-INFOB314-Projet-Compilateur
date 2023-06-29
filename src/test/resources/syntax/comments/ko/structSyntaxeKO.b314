@@ -1,0 +1,21 @@
+#import "world.map"
+
+struct structId1 {
+    int a;
+    char b = 2;
+    bool c;
+    };
+
+struct structId2 {
+    char f;
+    struct structEnter {
+        int interneInt;
+        };
+    };
+
+void main()
+{
+
+ dig();
+ return void;
+}

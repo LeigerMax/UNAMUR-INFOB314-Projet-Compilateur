@@ -1,0 +1,9 @@
+#import "world.map"
+//check type array avec type éléments
+int b2[5] = {5, false, true, false, true};
+
+void main()
+{
+ dig();
+ return void;
+}

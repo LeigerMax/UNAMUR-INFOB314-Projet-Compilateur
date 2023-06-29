@@ -1,0 +1,13 @@
+#import "world.map"
+
+//Même id
+
+int a;
+char a;
+
+void main()
+{
+
+ dig();
+ return void;
+}

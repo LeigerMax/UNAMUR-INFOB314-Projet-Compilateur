@@ -1,0 +1,18 @@
+#import "world.map"
+
+
+
+bool fct1(){
+    bool fctInt;
+    return fctInt;
+}
+
+// fct1 déjà utilisé
+int fct1;
+
+void main() {
+
+
+ dig();
+ return void;
+}

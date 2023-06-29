@@ -1,0 +1,13 @@
+#import "world.map"
+
+// Opération impossible ici
+ bool a = true;
+ bool b = false;
+ int c = a + b;
+
+void main()
+{
+
+ dig();
+ return void;
+}
